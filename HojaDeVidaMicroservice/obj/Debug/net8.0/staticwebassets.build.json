@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CC1mu5bvhDTly5FKxIR5gvX9ETQx4hvuk9fS2re4bYQ=",
+  "Source": "HojaDeVidaMicroservice",
+  "BasePath": "_content/HojaDeVidaMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
